@@ -4,9 +4,9 @@ week 4
 <span> | <span>
 :- | :-
 **Minggu** | 12/09 - 16/09
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Instalasi nuklir dan aktivitas terkait nuklir
+**Sub-topik** | Analisis Instalasi nuklir dan aktivitas terkait nuklir dari daur ulang bahan nuklir, operasional reaktor dan jenis reaktor
+**Capaian** | -
 ||
 
 

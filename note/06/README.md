@@ -4,9 +4,9 @@ week 6
 <span> | <span>
 :- | :-
 **Minggu** | 26/09 - 30/09
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Fasilitas dan teknik pengukuran material nuklir
+**Sub-topik** | Analisa Fasilitas dan teknik pengukuran material nuklir terkait kalibrasi, standard dan sampling pengukuran, penguura destructive dan non-destructive, detector
+**Capaian** | -
 ||
 
 

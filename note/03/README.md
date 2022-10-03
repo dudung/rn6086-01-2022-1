@@ -4,9 +4,9 @@ week 3
 <span> | <span>
 :- | :-
 **Minggu** | 05/09 - 09/09
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Material Nuklir dan Non-nuklir material
+**Sub-topik** | Analisa dan klasifikasi material nuklir dan material non-nuklir
+**Capaian** | -
 ||
 
 

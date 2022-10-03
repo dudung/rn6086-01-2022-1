@@ -4,9 +4,9 @@ week 2
 <span> | <span>
 :- | :-
 **Minggu** | 29/08 - 02/09
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Konsep pengawasan nuklir
+**Sub-topik** | Pendekatan pengawasan nuklir atau safeguard dan ukuran serta imlementasinya
+**Capaian** | -
 ||
 
 

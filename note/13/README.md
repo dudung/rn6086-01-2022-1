@@ -4,9 +4,9 @@ week 13
 <span> | <span>
 :- | :-
 **Minggu** | 14/11 - 18/11
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Konsep 3S safety, security dan safeguard
+**Sub-topik** | Implementasi dari konsep perpaduan safety, security dan safeguard pada fasilitas nukir
+**Capaian** | -
 ||
 
 

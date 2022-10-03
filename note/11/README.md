@@ -4,9 +4,9 @@ week 11
 <span> | <span>
 :- | :-
 **Minggu** | 31/10 - 04/11
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Konsep defence in depth keselamatan dan safeguard dan proteksi fisik
+**Sub-topik** | Analisa pemanfaatan konsep defence in depth untuk implementasi keselamatan dan safeguard dan proteksi fisik fasilitas nuklir
+**Capaian** | -
 ||
 
 

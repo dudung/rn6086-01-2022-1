@@ -4,9 +4,9 @@ week 5
 <span> | <span>
 :- | :-
 **Minggu** | 19/09 - 23/09
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Akuntansi atau penghitungan material nuklir
+**Sub-topik** | Analisa Akuntansi atau penghitungan material nuklir erkait sumber data, material nuklir, waktu, inventory dan export-import
+**Capaian** | -
 ||
 
 

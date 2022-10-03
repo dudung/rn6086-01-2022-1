@@ -4,9 +4,9 @@ week 10
 <span> | <span>
 :- | :-
 **Minggu** | 24/10 - 28/10
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Evaluasi dan informasi terkait safeguard serta pelaporan
+**Sub-topik** | Analisa informasi terkait safeguard, proses pelaporan dan data, verifikasi, komunikasi dan statemen pelaporan
+**Capaian** | -
 ||
 
 

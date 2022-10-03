@@ -4,9 +4,9 @@ week 14
 <span> | <span>
 :- | :-
 **Minggu** | 21/11 - 25/11
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Konsep Plutonium proliferasi dan Material Attractiveness
+**Sub-topik** | Analisa Konsep Plutonium proliferasi dan Material Attractiveness, doping material, isotopic plutonium, level material attractiveness
+**Capaian** | -
 ||
 
 

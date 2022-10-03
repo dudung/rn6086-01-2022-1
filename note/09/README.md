@@ -4,9 +4,9 @@ week 9
 <span> | <span>
 :- | :-
 **Minggu** | 17/10 - 21/10
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Konsep statistik dan teknik untuk verifikasi material nuklir dan inspeksi
+**Sub-topik** | Analisa Konsep statistik dan teknik untu verifikasi material nuklir, evaluasi kesetimbangan material, analisa sample, error dan test serta aktivitas inspeksi fasilitas nuklir, proses dan prosedur
+**Capaian** | -
 ||
 
 

@@ -4,9 +4,9 @@ week 1
 <span> | <span>
 :- | :-
 **Minggu** | 22/08 - 26/08
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Pendahuluan pengawasan nuklir, safeguard fasilitas dan material nuklir
+**Sub-topik** | Pendahuluan pengawasan nuklir, safeguard fasilitas dan material nuklir
+**Capaian** | -
 ||
 
 

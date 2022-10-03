@@ -4,9 +4,9 @@ week 12
 <span> | <span>
 :- | :-
 **Minggu** | 07/11 - 11/11
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Konsep safey by design
+**Sub-topik** | Analisa latar belakang konsep safety by design, implemntasi dan penyatuan konsep dari safety menuju safeguard
+**Capaian** | -
 ||
 
 

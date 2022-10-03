@@ -4,9 +4,9 @@ week 8
 <span> | <span>
 :- | :-
 **Minggu** | 10/10 - 14/10
-**Topik** | 
-**Sub-topik** | .
-**Capaian** | .
+**Topik** | Ujian Tengan Semester
+**Sub-topik** | -
+**Capaian** | -
 ||
 
 
