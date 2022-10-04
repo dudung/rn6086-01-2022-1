@@ -11,7 +11,7 @@ week 2
 
 
 ## materi
-+ ..
++ [Sesi bauran](text/hybrid-week-2.md)
 
 
 ## vicon
