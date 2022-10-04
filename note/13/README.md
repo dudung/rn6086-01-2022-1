@@ -11,7 +11,7 @@ week 13
 
 
 ## materi
-+ ..
++ [Budaya Organisasi untuk Keselamatan, Keamanan, dan Perlindungan di Negara-negara Tenaga Nuklir](organisational-culture-20220830-v5.pdf)
 
 
 ## vicon
