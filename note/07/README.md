@@ -11,7 +11,8 @@ week 7
 
 
 ## materi
-+ ..
++ [Sesi bauran](text/hybrid-week-7-tue.md)
++ [Istilah-istilah](text/terms.md)
 
 
 ## vicon
